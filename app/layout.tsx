@@ -22,7 +22,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VeeduHub — Everything Needed For Your Home",
+  title: "nestora — Everything Needed For Your Home",
   description:
     "Kerala's #1 Home Ecosystem. Buy, sell, rent properties, hire workers, rent tools and book home services.",
 };

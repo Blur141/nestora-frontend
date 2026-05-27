@@ -157,7 +157,7 @@ export const SERVICES = [
 export const TESTIMONIALS = [
   {
     id: 1,
-    text: "Found our dream villa in Kochi through VeeduHub. The verified listings and responsive agents made it effortless.",
+    text: "Found our dream villa in Kochi through nestora. The verified listings and responsive agents made it effortless.",
     name: "Anjali Rajan",
     location: "Kochi",
     initials: "AR",
@@ -180,7 +180,7 @@ export const TESTIMONIALS = [
 
 export const FAQS = [
   {
-    q: "Is VeeduHub available across all of Kerala?",
+    q: "Is nestora available across all of Kerala?",
     a: "Yes! We operate in all 14 districts of Kerala including Thiruvananthapuram, Kochi, Kozhikode, Thrissur and more.",
     defaultOpen: true,
   },
@@ -293,6 +293,6 @@ export const ABOUT_VALUES = [
 export const CONTACT_DETAILS = [
   { icon: "mapPin", title: "Head Office", lines: ["3rd Floor, Skyline Tower, MG Road", "Ernakulam, Kochi — 682016"] },
   { icon: "phone", title: "Phone", lines: ["+91 98765 43210", "+91 484 234 5678"] },
-  { icon: "mail", title: "Email", lines: ["hello@veeduhub.in", "support@veeduhub.in"] },
+  { icon: "mail", title: "Email", lines: ["hello@nestora.in", "support@nestora.in"] },
   { icon: "clock", title: "Hours", lines: ["Mon–Sat: 9:00 AM – 8:00 PM", "Sun: 10:00 AM – 5:00 PM"] },
 ];

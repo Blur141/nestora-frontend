@@ -6,7 +6,7 @@ export default function CTA() {
       <div className="container">
         <div className="cta-box">
           <h2>Ready to Build Your Dream Home?</h2>
-          <p>Join thousands of Keralites who trust VeeduHub for everything home-related.</p>
+          <p>Join thousands of Keralites who trust nestora for everything home-related.</p>
           <div className="cta-actions">
             <Link href="/register" className="btn btn-primary btn-lg">
               Get Started Free

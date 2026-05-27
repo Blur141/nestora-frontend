@@ -14,7 +14,7 @@ export default function Footer() {
               <i style={{ display: "inline-flex", color: "var(--emerald)" }}>
                 <Home size={24} />
               </i>
-              <span>Veedu<span className="accent">Hub</span></span>
+              <span>nestora<span className="accent">Hub</span></span>
             </Link>
             <p>
               Kerala&apos;s most trusted home and construction ecosystem — properties,
@@ -69,7 +69,7 @@ export default function Footer() {
               </li>
               <li>
                 <i style={{ display: "flex", flexShrink: 0 }}><Mail size={16} /></i>
-                hello@veeduhub.in
+                hello@nestora.in
               </li>
             </ul>
           </div>
@@ -78,7 +78,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <div className="container">
-          © 2026 VeeduHub. All rights reserved. | Made with{" "}
+          © 2026 nestora. All rights reserved. | Made with{" "}
           <i style={{ display: "inline-flex", verticalAlign: "middle" }}>
             <Heart size={13} fill="currentColor" />
           </i>{" "}

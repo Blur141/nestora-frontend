@@ -16,7 +16,7 @@ export default function RegisterPage() {
     e.preventDefault();
     if (form.password !== form.confirm) { alert("Passwords do not match."); return; }
     if (!form.terms) { alert("Please accept the terms and conditions."); return; }
-    alert("Account created! Welcome to VeeduHub.");
+    alert("Account created! Welcome to nestora.");
   };
 
   return (
@@ -25,7 +25,7 @@ export default function RegisterPage() {
 
       <Link href="/" className="auth-logo">
         <i style={{ display: "inline-flex", color: "#fbbf24" }}><Home size={22} /></i>
-        <span>Veedu<span className="accent" style={{ color: "#fbbf24" }}>Hub</span></span>
+        <span>nestora<span className="accent" style={{ color: "#fbbf24" }}>Hub</span></span>
       </Link>
 
       <div className="auth-card glass">

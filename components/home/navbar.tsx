@@ -24,7 +24,7 @@ export default function Navbar() {
           <i style={{ display: "inline-flex", color: "var(--emerald)" }}>
             <Home size={26} />
           </i>
-          <span>Veedu<span className="accent">Hub</span></span>
+          <span>nestora<span className="accent">Hub</span></span>
         </Link>
 
         <nav className={`nav-menu${menuOpen ? " active" : ""}`}>

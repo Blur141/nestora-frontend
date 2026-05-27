@@ -113,7 +113,7 @@ export default function ContactPage() {
               height="400"
               style={{ border: 0 }}
               loading="lazy"
-              title="VeeduHub Office Location"
+              title="nestora Office Location"
             />
           </div>
         </div>

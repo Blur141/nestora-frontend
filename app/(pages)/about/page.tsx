@@ -12,7 +12,7 @@ export default function AboutPage() {
     <>
       <section className="page-hero">
         <div className="container">
-          <h1>About <span className="gradient-text">VeeduHub</span></h1>
+          <h1>About <span className="gradient-text">nestora</span></h1>
           <p>Reimagining how Kerala builds, rents and maintains homes.</p>
         </div>
       </section>
@@ -24,7 +24,7 @@ export default function AboutPage() {
             <span className="eyebrow">Our Story</span>
             <h2>From a Garage in Kochi to Kerala&apos;s #1 Home Platform</h2>
             <p>
-              VeeduHub was born in 2023 from a simple frustration:{" "}
+              nestora was born in 2023 from a simple frustration:{" "}
               <em>finding a reliable plumber in Kerala was harder than it should be.</em>
             </p>
             <p>

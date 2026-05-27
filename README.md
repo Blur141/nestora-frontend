@@ -1,6 +1,6 @@
-# VeeduHub — Kerala's #1 Home Platform
+# nestora — Kerala's #1 Home Platform
 
-A fully responsive **Next.js** frontend for VeeduHub, a complete home ecosystem for Kerala — covering property listings, home services, tool rentals, construction professionals, and a used-goods marketplace.
+A fully responsive **Next.js** frontend for nestora, a complete home ecosystem for Kerala — covering property listings, home services, tool rentals, construction professionals, and a used-goods marketplace.
 
 > **Frontend only.** All data is mocked locally — no backend or database required.
 
@@ -8,7 +8,7 @@ A fully responsive **Next.js** frontend for VeeduHub, a complete home ecosystem 
 
 ## What Does This App Do?
 
-VeeduHub connects four types of users in one place:
+nestora connects four types of users in one place:
 
 | User type | What they can do |
 |---|---|
@@ -130,7 +130,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser. You should see the VeeduHub homepage.
+Open [http://localhost:3000](http://localhost:3000) in your browser. You should see the nestora homepage.
 
 ### Other commands
 
@@ -251,7 +251,7 @@ Right now every page imports from `lib/mock-data.ts`. When you're ready to conne
 import { PROPERTY_LISTINGS } from "@/lib/mock-data";
 
 // After (real API — server component)
-const res = await fetch("https://api.veeduhub.com/properties");
+const res = await fetch("https://api.nestora.com/properties");
 const listings = await res.json();
 ```
 

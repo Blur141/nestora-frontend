@@ -20,12 +20,12 @@ export default function LoginPage() {
 
       <Link href="/" className="auth-logo">
         <i style={{ display: "inline-flex", color: "#fbbf24" }}><Home size={22} /></i>
-        <span>Veedu<span className="accent" style={{ color: "#fbbf24" }}>Hub</span></span>
+        <span>nestora<span className="accent" style={{ color: "#fbbf24" }}>Hub</span></span>
       </Link>
 
       <div className="auth-card glass">
         <h1>Welcome Back</h1>
-        <p>Sign in to continue to VeeduHub</p>
+        <p>Sign in to continue to nestorab</p>
 
         <form onSubmit={handleSubmit}>
           <div className="field">
