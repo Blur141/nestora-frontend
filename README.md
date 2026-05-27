@@ -1,4 +1,4 @@
-# nestora — Kerala's #1 Home Platform
+# Nestora — Kerala's #1 Home Platform
 
 A fully responsive **Next.js** frontend for nestora, a complete home ecosystem for Kerala — covering property listings, home services, tool rentals, construction professionals, and a used-goods marketplace.
 
