@@ -18,7 +18,7 @@ export default function Features() {
         <div className="section-head">
           <span className="eyebrow">What We Offer</span>
           <h2>Everything Under One Roof</h2>
-          <p>From buying your dream home to fixing a leaking tap — VeeduHub has you covered.</p>
+          <p>From buying your dream home to fixing a leaking tap — nestora has you covered.</p>
         </div>
 
         <div className="grid grid-3">
